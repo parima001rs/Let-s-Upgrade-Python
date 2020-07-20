@@ -1,0 +1,9 @@
+Question2: What is code environment? and Types?
+Answer: Code environment is where a programmer writes code and executes it.Each code environment has its own set of packages.
+        Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them.
+        Types:
+        1.Local Environment - this will be the environment that is included with your operating system.
+        2.Virtual Environment - This Goes one step further than the local environment by installing a piece of software on 
+                                the local environment to be able to virtualize instances of a machine onto the local machine.
+        3.Cloud Environment - This goes even further than the virtual environment, by completely eliminating the hardware and 
+                              just provides you access to the machine over an SSH or internet connection in order for you to configure your specific environment.
